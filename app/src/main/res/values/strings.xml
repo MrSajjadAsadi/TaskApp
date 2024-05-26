@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TaskApp</string>
+    <string name="Tasksanj">تسک سنج</string>
+    <string name="TTasksanj">با اپلیکیشن تسک سنج کارت هاتو مدیریت کن</string>
+    <string name="manage_task">مدیریت وطایف</string>
+    <string name="true_works">انجام شده</string>
+    <string name="false_works">انجام نشده</string>
+    <string name="todo">Todo</string>
+    <string name="add_task">افزودن وظیفه جدید</string>
+    <string name="text_task">متن وظیفه</string>
+    <string name="save">ذخیره</string>
+    <string name="cancel">لغو</string>
+</resources>
